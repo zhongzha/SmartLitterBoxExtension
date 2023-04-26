@@ -4,5 +4,5 @@
 
 ## Contributor
 Pakshal Shah | IoT Engineer\
-Forrest Zhang | Software Engineer\ 
-Samson Zhang | Product Manager\
+Forrest Zhang | Software Engineer\
+Samson Zhang | Product Manager
