@@ -1,8 +1,11 @@
 # Smart Extension for Cat Litter Box
-Mobile & IoT code implementation can be found [here](https://github.com/YunyuZhang/iot_project_backend)
 
+## Codebase
+Backend server implementation can be found [here](https://github.com/YunyuZhang/iot_project_backend)\
+IoT Sensor implementation can be found [here](https://github.com/Paksh2909/pico_code)
+
+## Project Overview
 ![alt text](17781_Final_Post.png)
-
 
 ## Recognition
 **Runner-up for the Best Team Project Award**
